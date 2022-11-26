@@ -25,11 +25,12 @@ Generated CSV files will save in your given directory.
 - First API Calling:
 ![image](https://user-images.githubusercontent.com/59245133/204107347-0abad9cc-75dc-4fee-b72f-472b29c0a3e2.png)
 
--
+-You will find details in log file.
 ![image](https://user-images.githubusercontent.com/59245133/204107386-48696b1b-8b4a-4575-9315-ab7fec02768a.png)
-
+-Second API call(GET API):
 ![image](https://user-images.githubusercontent.com/59245133/204107599-9170f53f-c172-44b3-9713-4d5aa0d3412b.png)
-
+-Data saved in given derectory.
+![image](https://user-images.githubusercontent.com/59245133/204108267-99841d06-ef81-497f-827f-4faea81776e0.png)
 
 
 ## General Information
@@ -37,52 +38,3 @@ Generated CSV files will save in your given directory.
 - You will find a jar file in the target folder.
 then run that using this command "java -...jar"
 
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgementsss
