@@ -8,14 +8,24 @@ file easily and store customer data.
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
-Java-8
-Maven-3.6.3
-Spring boot
+Java-8,
+Maven-3.6.3,
+Spring boot,
+MySQL
 
 * [Screenshots](#screenshots)
 
+First of all, you need to create a database in your MySQL DB and configure the application.properties file.
+You also need to configure your file path "file.upload-dir=D:/Exam_17_11_2022" in the application.properties file.
+Then run the project. 
+There are two APIs in this project.
+One is for file upload and another is for getting .csv file.
+Generated CSV files will save in your given directory.
+
+- First API Calling:
 ![image](https://user-images.githubusercontent.com/59245133/204107347-0abad9cc-75dc-4fee-b72f-472b29c0a3e2.png)
 
+-
 ![image](https://user-images.githubusercontent.com/59245133/204107386-48696b1b-8b4a-4575-9315-ab7fec02768a.png)
 
 ![image](https://user-images.githubusercontent.com/59245133/204107599-9170f53f-c172-44b3-9713-4d5aa0d3412b.png)
@@ -23,11 +33,9 @@ Spring boot
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Just open the git bash and run "mvn clean install"
+- You will find a jar file in the target folder.
+then run that using this command "java -...jar"
 
 
 ## Technologies Used
@@ -77,19 +85,4 @@ To do:
 - Feature to be added 2
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Acknowledgementsss
